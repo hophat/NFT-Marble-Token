@@ -2,10 +2,10 @@
  
 
 
-main:[https://bscscan.com/address/0xf641e9a85c0b5e4d54a494caeae3bcd333daa2af](https://www.notion.so/5c0b5e4d54a494caeae3bcd333daa2af)
+main:[https://bscscan.com/token/0xc236a71f9633a0be7d97ad68f8c16de6ec46a252](https://bscscan.com/token/0xc236a71f9633a0be7d97ad68f8c16de6ec46a252)
 
 - network : BEP-20
-- Symbol : NMG
-- Name : NFT Marble Game
+- Symbol : DOZEN
+- Name : NFT MARBLE TOKEN DOZEN
 - Decimals : 18
 - amount : 1,000,000,000
